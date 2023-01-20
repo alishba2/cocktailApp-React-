@@ -1,0 +1,26 @@
+.post{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 60px;
+    row-gap: 30px;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin: 100px 0px 100px;
+    
+}
+.card{
+    height: 200px;
+    width: 200px;
+    
+}
+.desc{
+    border: 1px solid black;
+    
+    padding: 50px;
+}
+.txt{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
